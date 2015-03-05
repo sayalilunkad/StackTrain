@@ -1,0 +1,15 @@
+# Build results
+*.pyc
+
+.ropeproject/
+
+# Testenvironment
+.tox/
+
+# Editors
+*~
+.*.swp
+
+# Labs artifacts
+stacktrain/osbash/img/
+stacktrain/xml/
